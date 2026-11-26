@@ -1,0 +1,11 @@
+voxcpm==2.0.3
+fastapi
+uvicorn[standard]
+python-multipart
+soundfile
+khmer-nltk
+uroman
+pillow
+pygments
+# iPhone HEIC photos on Windows/Linux (macOS can also convert them with its built-in sips)
+pillow-heif
